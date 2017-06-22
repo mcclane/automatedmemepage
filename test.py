@@ -164,7 +164,7 @@ def unfollowall(loggedinuser,unfollowedcount):
     
 
 #begin control code
-login("estenegra","shorecrest18")
+login("username","password")
 #getmemesfromifunny()
 #for file in filenamelist:
 #    postphoto(file,"follow @hopperclodder for more                                              .                                                   .                                                    .                                        .                                   #followme #follow #funnymemes #funny #jokes #lol #comic #comedy #haha #joke #petty #savage #famous #branding #funnyvideo #funnypictures #instafunny #funnypicture #hahaha #funnyvideos #viral #hilarious #promo #advertising #advertise #promote #nochill #lmao #memes #xbox")
