@@ -14,7 +14,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--username", type=str)
     parser.add_argument("--password", type=str)
-    args = parser.parser_args()
+    args = parser.parse_args()
 
     memes = getmemesfromifunny()
 
